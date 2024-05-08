@@ -1,4 +1,4 @@
-- 👋 Hello, name's @beingFaithful
+- 👋 Hello, name's @TheFaithful
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on AI development
